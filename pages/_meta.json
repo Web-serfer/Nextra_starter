@@ -1,0 +1,19 @@
+{
+  "index": "Главная",  
+  "contacts": "Контакты",  
+  "about": "О сайте",  
+
+  "abouts": {
+    "title": "О сайте",
+    "type": "page",
+    "href": "/about",
+    "newWindow": false
+  },
+  
+  "contact": {
+    "title": "Контакты",
+    "type": "page",
+    "href": "/contacts",
+    "newWindow": false
+  }
+}
