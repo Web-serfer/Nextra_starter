@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+h2 {
+  color: yellow !important;
+  text-align: center;  
+}
+
+#one {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+
+.left {
+  color: red;
+  border: 1px solid grey;
+}
+
+.right {
+  color: blue;
+  border: 1px solid grey;
+}
+
+
+
+
+
